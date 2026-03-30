@@ -92,10 +92,3 @@
 * 📚 Умею работать с документацией
 * 🤝 Готов к стажировке и работе в команде
 
----
-
-## 📊 GitHub статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nurzhali\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurzhalil\&layout=compact\&theme=tokyonight)
