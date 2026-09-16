@@ -77,7 +77,7 @@
 
 ## 📫 Контакты
 
-📧 [satybaldievnurzhalil@email.com](mailto:satybaldievnurzhalil@email.com)
+📧 [satybaldievnurzhalil@gmail.com](mailto:satybaldievnurzhalil@email.com)
 📱 +996 556 031 105
 
 ---
