@@ -1,90 +1,75 @@
-# 👋 Привет, я Нуржалил Сатыбалдиев
-
-🎓 Студент 4 курса (Программные технологии)
+# САТЫБАЛДИЕВ НУРЖАЛИЛ
+**Junior Backend Developer**
 
 ---
 
 ## 🧠 Обо мне
+Я — студент 4 курса по направлению «Программные технологии». Мой основной фокус — Backend-разработка и проектирование высоконагруженных систем. Активно изучаю **Java**, **Go** и **C++**. 
 
-Сфера интересов: Backend-разработка, автоматизация процессов и проектирование защищенных API. Изучаю базы данных и принципы кибербезопасности (безопасная разработка, защита инфраструктуры и сетевая безопасность).
+Интересуюсь автоматизацией процессов и кибербезопасностью (безопасная разработка, защита API и сетевая инфраструктура). Ищу возможность применить свои знания на практике в роли стажера или Junior-разработчика.
 
-📈 Сейчас ищу возможность пройти стажировку и получить практический опыт.
+*   **GitHub:** [github.com/Nurzhalil](https://github.com/Nurzhalil)
+*   **Локация:** Кыргызстан
+*   **Возраст:** 21 год
 
 ---
 
 ## 🛠️ Технологии
 
-### 💻 Backend
+### 💻 Программирование и Backend
+*   **Языки:** 
+    *   ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) **Java** (Core, Spring Boot, Hibernate)
+    *   ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) **Go** (Standard Library, Gin, GORM)
+    *   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) **C++** (STL, OOP, системное программирование)
+*   **Фреймворки:** Spring Boot, Echo/Gin (Go).
 
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=java)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge\&logo=spring)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge\&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge)
-
-### 🗄️ Базы данных
-
-![MySQL](https://img.shields.io/badge/MySQL-lightblue?style=for-the-badge\&logo=mysql)
-
-### 🌐 Frontend
-
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge\&logo=bootstrap)
-
-### ⚙️ Инструменты
-
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-![Maven](https://img.shields.io/badge/Maven-red?style=for-the-badge)
-![Lombok](https://img.shields.io/badge/Lombok-pink?style=for-the-badge)
+### 🗄️ Базы данных и Инструменты
+*   **БД:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) MySQL, PostgreSQL.
+*   **Инструменты:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) Git, ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) Docker, Maven, Lombok.
+*   **Frontend:** HTML5, CSS3, Bootstrap (базово для визуализации данных).
 
 ---
 
 ## 🚀 Проекты
 
-### 🎬 Cinema Management System
+### 🎬 Cinema Management System (Java/Spring)
+*   Разработал Backend-систему для управления кинотеатром.
+*   Реализовал CRUD-операции для фильмов, сеансов и пользователей.
+*   Настроил интеграцию с MySQL и управление зависимостями через Maven.
 
-* Backend-система для управления кинотеатром
-* Реализованы CRUD-операции для фильмов, сеансов и пользователей
-* Подключена и настроена база данных MySQL
-* Использованы: Spring Boot, Maven, Lombok, Git
+### 💻 Go Backend & API Services
+*   Разработка легковесных микросервисов на языке **Go**.
+*   Работа с конкурентностью (Goroutines) и высокопроизводительными API.
+*   Интеграция с SQL базами данных.
 
----
-
-### 💻 Сайт для подбора ПК
-
-* Веб-приложение для подбора комплектующих
-* Реализован каталог (CPU, GPU, RAM, SSD)
-* Логика подбора совместимых компонентов
-* Использована база данных MySQL
+### 🖥️ Системные модули на C++
+*   Реализация алгоритмических решений и структур данных.
+*   Опыт работы с памятью и оптимизацией кода.
 
 ---
 
 ## 🎓 Образование
-
-Бакалавриат — Программные технологии
-2023 – 2027
+**Бакалавриат — Программные технологии**
+*Кыргызстан, 2023 – 2027 (4 курс)*
+*   Изучение архитектуры ЭВМ, сетевых протоколов и кибербезопасности.
 
 ---
 
 ## 🌍 Языки
-
-* 🇷🇺 Русский — родной
-* 🇰🇬 Кыргызский — родной
-* 🇬🇧 Английский — базовый
+*   🇷🇺 **Русский** — Родной
+*   🇰🇬 **Кыргызский** — Родной
+*   🇬🇧 **Английский** — Базовый (чтение технической документации)
 
 ---
 
 ## 📫 Контакты
-
-📧 [satybaldievnurzhalil@gmail.com](mailto:satybaldievnurzhalil@email.com)
-📱 +996 556 031 105
+*   **Email:** [satybaldievnurzhalil@gmail.com](mailto:satybaldievnurzhalil@email.com)
+*   **Телефон:** +996 556 031 105
+*   **Telegram:** [@ваш_никнейм] (рекомендую добавить сюда ссылку на ТГ)
 
 ---
 
 ## ⚡ Дополнительно
-
-* 🚀 Быстро обучаюсь новым технологиям
-* 📚 Умею работать с документацией
-* 🤝 Готов к стажировке и работе в команде
-
+*   Умею быстро разбираться в новом стеке технологий.
+*   Применяю принципы чистого кода (SOLID, DRY).
+*   Готов к обучению, стажировке и командной работе над сложными задачами.
